@@ -2,6 +2,12 @@ package part_one.chapter_2.ex_02;
 
 import java.util.concurrent.TimeUnit;
 
+/**
+ *  Part - 1
+ *  Chapter - 2
+ *  Page 30-32
+ */
+
 public class ExtendedThreadDemo {
     public static void main(String[] args) {
 
