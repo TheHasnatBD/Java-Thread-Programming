@@ -2,9 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7efeaed7-cda2-435b-8ff6-10c3fc033e85" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/src/part_one/chapter_2/ex_03/MyThreadRunnable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/part_one/chapter_2/ex_03/RunnableThreadDemo.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/part_one/chapter_2/ex_01/ExtendedThreadDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/part_one/chapter_2/ex_01/ExtendedThreadDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/part_one/chapter_2/ex_02/ExtendedThreadDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/part_one/chapter_2/ex_02/ExtendedThreadDemo.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -16,11 +16,29 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="ExtendedThreadDemo.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="ExtendedThreadDemo.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/part_one/chapter_2/ex_02/ExtendedThreadDemo.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="144">
-              <caret line="8" column="3" lean-forward="true" selection-start-line="8" selection-start-column="3" selection-end-line="8" selection-end-column="3" />
+            <state relative-caret-position="72">
+              <caret line="4" selection-start-line="4" selection-end-line="8" selection-end-column="3" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="MyThreadRunnable.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/part_one/chapter_2/ex_03/MyThreadRunnable.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="414">
+              <caret line="23" column="4" selection-start-line="23" selection-start-column="4" selection-end-line="23" selection-end-column="4" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="RunnableThreadDemo.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/part_one/chapter_2/ex_03/RunnableThreadDemo.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="177">
+              <caret line="24" column="5" lean-forward="true" selection-start-line="24" selection-start-column="5" selection-end-line="24" selection-end-column="5" />
             </state>
           </provider>
         </entry>
@@ -28,8 +46,8 @@
       <file leaf-file-name="ExtendedThread.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/part_one/chapter_2/ex_02/ExtendedThread.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="36">
-              <caret line="2" column="37" lean-forward="true" selection-start-line="2" selection-start-column="37" selection-end-line="2" selection-end-column="37" />
+            <state relative-caret-position="72">
+              <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
             </state>
           </provider>
         </entry>
@@ -67,6 +85,8 @@
         <option value="$PROJECT_DIR$/src/part_one/chapter_2/ex_02/ExtendedThread.java" />
         <option value="$PROJECT_DIR$/src/part_one/chapter_2/ex_01/ExtendedThreadDemo.java" />
         <option value="$PROJECT_DIR$/src/part_one/chapter_2/ex_02/ExtendedThreadDemo.java" />
+        <option value="$PROJECT_DIR$/src/part_one/chapter_2/ex_03/MyThreadRunnable.java" />
+        <option value="$PROJECT_DIR$/src/part_one/chapter_2/ex_03/RunnableThreadDemo.java" />
       </list>
     </option>
   </component>
@@ -136,6 +156,14 @@
               <item name="Java Thread Programming" type="b2602c69:ProjectViewProjectNode" />
               <item name="Java-Thread-Programming" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="part_one" type="462c0819:PsiDirectoryNode" />
+              <item name="chapter_2" type="462c0819:PsiDirectoryNode" />
+              <item name="ex_03" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Java Thread Programming" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Java-Thread-Programming" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="Part_Two" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
@@ -148,10 +176,10 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
-    <property name="android.sdk.path" value="$USER_HOME$/AndroidStudioInstall/Android/Sdk" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="android.sdk.path" value="$USER_HOME$/AndroidStudioInstall/Android/Sdk" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -165,7 +193,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.ExtendedThreadDemo (1)">
+  <component name="RunManager" selected="Application.RunnableThreadDemo">
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
     </configuration>
@@ -198,6 +226,17 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="part_one.chapter_1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="RunnableThreadDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="part_one.chapter_2.ex_03.RunnableThreadDemo" />
+      <module name="Java-Thread-Programming" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="part_one.chapter_2.ex_03.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -260,9 +299,11 @@
       <item itemvalue="Application.MainThreadExample" />
       <item itemvalue="Application.ExtendedThreadDemo" />
       <item itemvalue="Application.ExtendedThreadDemo (1)" />
+      <item itemvalue="Application.RunnableThreadDemo" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.RunnableThreadDemo" />
         <item itemvalue="Application.ExtendedThreadDemo (1)" />
         <item itemvalue="Application.ExtendedThreadDemo" />
         <item itemvalue="Application.MainThreadExample" />
@@ -283,26 +324,34 @@
       <workItem from="1522242929782" duration="15000" />
       <workItem from="1522331242516" duration="3186000" />
       <workItem from="1522499144097" duration="33000" />
-      <workItem from="1522663729654" duration="130000" />
+      <workItem from="1522663729654" duration="2813000" />
     </task>
+    <task id="LOCAL-00001" summary="Chapter 2 (page 29-32)">
+      <created>1522663999145</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1522663999145</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4155000" />
+    <option name="totallyTimeSpent" value="6838000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="47" y="-4" width="1319" height="772" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Messages" order="7" />
       <window_info anchor="right" id="Palette&#9;" order="3" />
       <window_info id="Image Layers" order="2" />
       <window_info anchor="right" id="Capture Analysis" order="3" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
       <window_info anchor="right" id="Maven Projects" order="3" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.3298193" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.3298193" />
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info id="Capture Tool" order="2" />
@@ -317,7 +366,6 @@
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="Messages" order="7" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
@@ -329,6 +377,10 @@
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Chapter 2 (page 29-32)" />
+    <option name="LAST_COMMIT_MESSAGE" value="Chapter 2 (page 29-32)" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/part_one/chapter_2/ex_02/ExtendedThreadDemo.java">
@@ -373,17 +425,31 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/part_one/chapter_2/ex_02/ExtendedThread.java">
+    <entry file="file://$PROJECT_DIR$/src/part_one/chapter_2/ex_02/ExtendedThreadDemo.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="36">
-          <caret line="2" column="37" lean-forward="true" selection-start-line="2" selection-start-column="37" selection-end-line="2" selection-end-column="37" />
+        <state relative-caret-position="72">
+          <caret line="4" selection-start-line="4" selection-end-line="8" selection-end-column="3" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/part_one/chapter_2/ex_02/ExtendedThreadDemo.java">
+    <entry file="file://$PROJECT_DIR$/src/part_one/chapter_2/ex_02/ExtendedThread.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="144">
-          <caret line="8" column="3" lean-forward="true" selection-start-line="8" selection-start-column="3" selection-end-line="8" selection-end-column="3" />
+        <state relative-caret-position="72">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/part_one/chapter_2/ex_03/MyThreadRunnable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="414">
+          <caret line="23" column="4" selection-start-line="23" selection-start-column="4" selection-end-line="23" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/part_one/chapter_2/ex_03/RunnableThreadDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="177">
+          <caret line="24" column="5" lean-forward="true" selection-start-line="24" selection-start-column="5" selection-end-line="24" selection-end-column="5" />
         </state>
       </provider>
     </entry>
